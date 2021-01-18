@@ -1,0 +1,19 @@
+#sobreODesenvolvedor{
+    display: flex;
+    justify-content: space-between
+}
+
+img{
+    width: 86px;
+    height: 85px;
+}
+
+.SobrePaulo{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
