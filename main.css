@@ -80,7 +80,8 @@ h2 {
 .noticias {
   background-color: white;
   margin-top: 30px;
-  padding-bottom: 20px;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
 }
 
 .cabecalhoNoticia {
@@ -115,13 +116,12 @@ p {
   color: #000000;
 }
 
-.rodapeNoticia{
+.rodapeNoticia {
   display: flex;
   justify-content: flex-start;
-  
 }
 
-h3{
+h3 {
   padding-left: 20px;
   padding-right: 5px;
   font-family: Roboto;
@@ -132,3 +132,38 @@ h3{
   color: #000000;
   margin: 0;
 }
+
+.video {
+  display: flex;
+  justify-content: center;
+}
+
+.logoSeparador {
+  width: 106px;
+  height: 101px;
+}
+
+.separadorNoticias {
+  text-align: center;
+}
+
+#rodape{
+  display: flex;
+  justify-content:center;
+  background-color: white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  align-items: center;
+
+}
+
+#rodape a{
+  margin-left: 5px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 21px;
+  color: #4e839e;
+}
+
